@@ -150,8 +150,4 @@ audio {
   -moz-border-radius: 90vw;
   -o-border-radius: 90vw;
   }
-
-body {
-  background-image: linear-gradient(155deg, white, #37598c);
-}
 }
