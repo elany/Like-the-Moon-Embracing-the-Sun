@@ -150,4 +150,12 @@ audio {
   -moz-border-radius: 90vw;
   -o-border-radius: 90vw;
   }
+
+  .podfic p {
+  font-size: 0.8em;
+}
+
+.podfic h2 {
+  font-size: 1em;
+}
 }
