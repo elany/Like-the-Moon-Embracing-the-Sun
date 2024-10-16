@@ -135,7 +135,7 @@ audio {
   -o-border-radius: 500px;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
 .podfic {
   max-width: 90vw;
   border-top-left-radius: 90vw;
