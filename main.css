@@ -85,9 +85,13 @@ body {
 .podfic p,
 .podfic h2,
 .podfic h4,
-.podfic a,
 .podfic a:visited {
   text-decoration: none;
+  text-align: center;
+  color: white;
+}
+.podfic a {
+  text-decoration: underline;
   text-align: center;
   color: white;
 }
