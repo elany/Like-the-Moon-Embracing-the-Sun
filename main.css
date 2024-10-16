@@ -150,4 +150,8 @@ audio {
   -moz-border-radius: 90vw;
   -o-border-radius: 90vw;
   }
+
+body {
+  background-color: white;
+}
 }
