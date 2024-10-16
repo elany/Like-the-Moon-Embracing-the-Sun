@@ -134,3 +134,20 @@ audio {
   -moz-border-radius: 500px;
   -o-border-radius: 500px;
 }
+
+@media screen and (min-width: 600px) {
+.podfic {
+  max-width: 90vw;
+  border-top-left-radius: 90vw;
+  border-top-right-radius: 90vw;
+}
+
+.podfic img {
+  max-width: 90vw;
+  width: 85%;
+  border-radius: 90vw;
+  -webkit-border-radius: 90vw;
+  -moz-border-radius: 90vw;
+  -o-border-radius: 90vw;
+  }
+}
