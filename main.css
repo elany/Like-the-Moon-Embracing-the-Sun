@@ -151,11 +151,15 @@ audio {
   -o-border-radius: 90vw;
   }
 
+  .description {
+  margin-top: -400px;
+}
+
   .podfic p {
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 
 .podfic h2 {
-  font-size: 1em;
+  font-size: 1.1em;
 }
 }
