@@ -151,7 +151,8 @@ audio {
   }
 
   .description {
-  margin-top: -400px;
+  max-width: 85vw;
+  margin-top: -450px;
 }
 
   .podfic p {
@@ -159,6 +160,6 @@ audio {
 }
 
 .podfic h2 {
-  font-size: 1.7em;
+  font-size: 1.1em;
 }
 }
